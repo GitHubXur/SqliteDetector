@@ -1,0 +1,2 @@
+# SqliteDetector
+SqliteDetector是一个开源的sqlite数据库分析工具，可以查看表结构以及表数据，可以恢复delete SQL删除的记录，，可以在此基础上开发sqlite可视化管理工具
